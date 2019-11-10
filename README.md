@@ -1,6 +1,6 @@
 # Taxonomic-relation
 
-[Incorporating Term Definitions for Taxonomic Relation Identification](https://www.aclweb.org/anthology/P19-1191) 
+[Incorporating Term Definitions for Taxonomic Relation Identification](https://) 
 
 
 Accepted by the 9th Joint International Semantic Technology Conference (JIST 2019)
@@ -18,10 +18,10 @@ pages = "1980--1991"
     author = "Sheng, Yongpan  and
       Wu, Tianxing  and
       Wang, Xin",
-    booktitle = "Proceedings of the 9th Joint International Semantic Technology Conference",
-    month = jul,
+    booktitle = "Proceedings of the 9th Joint International Semantic Technology Conference (JIST)",
+    month = nov,
     year = "2019",
     address = "Hangzhou, China",
-    publisher = "Association for Computational Linguistics"
+    publisher = "Springer"
 }
 ```
